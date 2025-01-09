@@ -1,0 +1,35 @@
+[
+    {
+        "id": "1",
+        "origin": "New York",
+        "destination": "London",
+        "departureTime": "2023-10-01T08:00:00",
+        "arrivalTime": "2023-10-01T20:00:00",
+        "rtOrigin": "London",
+        "rtDestination": "New York",
+        "rtDepartureTime": "2023-10-15T08:00:00",
+        "rtArrivalTime": "2023-10-15T20:00:00"
+    },
+    {
+        "id": "2",
+        "origin": "Los Angeles",
+        "destination": "Tokyo",
+        "departureTime": "2023-11-05T10:00:00",
+        "arrivalTime": "2023-11-06T14:00:00",
+        "rtOrigin": "Tokyo",
+        "rtDestination": "Los Angeles",
+        "rtDepartureTime": "2023-11-20T10:00:00",
+        "rtArrivalTime": "2023-11-20T14:00:00"
+    },
+    {
+        "id": "3",
+        "origin": "Paris",
+        "destination": "Dubai",
+        "departureTime": "2023-12-10T09:00:00",
+        "arrivalTime": "2023-12-10T17:00:00",
+        "rtOrigin": "Dubai",
+        "rtDestination": "Paris",
+        "rtDepartureTime": "2023-12-25T09:00:00",
+        "rtArrivalTime": "2023-12-25T17:00:00"
+    }
+]
